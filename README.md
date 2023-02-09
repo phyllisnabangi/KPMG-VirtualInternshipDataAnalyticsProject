@@ -6,6 +6,6 @@ The following main tasks were completed
 2. Data Insights
 3. Data Insights and Presentations<br />
 ## Note
-The dataset is not shared since it mainly used for the internship purposes.
-This should be as a guide but not to replicate the codes.  
+The dataset is not shared since it is only used for KPMG Virtual Internship purposes only. 
+This should act as a guide but not to replicate the codes.  
 You can find a detailed article about this experience [here](https://medium.com/@nabangiphyllis7/list/technical-articles-d30d2e370d89)
